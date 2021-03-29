@@ -1,1 +1,8 @@
 .idea
+api/__pycache__/
+company/__pycache__/
+company/migrations/__pycache__/
+django5_hw/__pycache__/
+employee/__pycache__/
+employee/migrations/__pycache__/
+users/__pycache__/
